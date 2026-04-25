@@ -21,3 +21,5 @@ Saya mendapatkan proyek ini saat training sebagai kandidat System Analyst di Uni
 5. UI
 
     ![App Screenshot](image/ui.png)
+
+Untuk melihat versi lengkap, dapat mengunduh file yang sudah saya lampirkan di repository ini.
